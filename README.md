@@ -1,5 +1,5 @@
 # Flutter_widgets
-Just some sample code snippets that I need to refer in app making.\n
+Just some sample code snippets that I refer in app making.\n
 
 #Animations-how to use them.
 
